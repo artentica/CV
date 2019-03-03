@@ -6,3 +6,7 @@ This project is used to keep different version of my CV done in PSD or other ext
 
 This version of my CV is in:
  - French
+
+## Git LFS
+
+This project use git LFS.
