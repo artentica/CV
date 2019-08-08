@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - '9'
+
+branches:
+  only:
+    - master
+
+stages:
+  - release
+
+jobs:
+  include:
+    - stage: release
+      if: type != pull_request
+      script: npx -p @semantic-release/changelog -p @semantic-release/git -p semantic-release semantic-release
