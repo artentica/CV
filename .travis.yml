@@ -1,5 +1,8 @@
 before_script:
+- git lfs ls-files -l
 - git lfs pull
+- git lfs fetch --all
+- git lfs ls-files -l
 
 language: node_js
 node_js:
