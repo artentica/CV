@@ -1,5 +1,5 @@
 before_script:
-- git lfs pull
+- git lfs fetch --all
 
 language: node_js
 node_js:
