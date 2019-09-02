@@ -1,3 +1,12 @@
+## [6.3.4](https://github.com/artentica/CV/compare/v6.3.3...v6.3.4) (2019-09-02)
+
+
+### Bug Fixes
+
+* Change to english ([1403dee](https://github.com/artentica/CV/commit/1403dee))
+* Remove old files ([7829418](https://github.com/artentica/CV/commit/7829418))
+* Track .png file for LFS ([d9d0c58](https://github.com/artentica/CV/commit/d9d0c58))
+
 ## [6.3.3](https://github.com/artentica/CV/compare/v6.3.2...v6.3.3) (2019-09-02)
 
 
