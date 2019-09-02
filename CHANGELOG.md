@@ -1,3 +1,11 @@
+## [6.3.3](https://github.com/artentica/CV/compare/v6.3.2...v6.3.3) (2019-09-02)
+
+
+### Bug Fixes
+
+* Remove old files ([94110ea](https://github.com/artentica/CV/commit/94110ea))
+* Remove phone number ([2ffffbe](https://github.com/artentica/CV/commit/2ffffbe))
+
 ## [6.3.2](https://github.com/artentica/CV/compare/v6.3.1...v6.3.2) (2019-09-02)
 
 
