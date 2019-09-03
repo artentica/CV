@@ -1,5 +1,5 @@
-before_script:
-- git lfs checkout
+# before_script:
+# - git lfs checkout
 
 language: node_js
 node_js:
