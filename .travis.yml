@@ -1,5 +1,5 @@
-# before_script:
-# - git lfs checkout
+before_script:
+- git config lfs.allowincompletepush true
 
 language: node_js
 node_js:
