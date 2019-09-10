@@ -16,4 +16,4 @@ jobs:
   include:
     - stage: release
       if: type != pull_request
-      script: npx -p @semantic-release/changelog@3.0.4 -p @semantic-release/github@5.4.3 -p semantic-release@15.13.24 semantic-release
+      script: npx -p @semantic-release/changelog@3.0.4 -p @semantic-release/github@5.4.3 -p @semantic-release/git@7.0.16 -p semantic-release@15.13.24 semantic-release
