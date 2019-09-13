@@ -1,3 +1,15 @@
+# [6.5.0](https://github.com/artentica/CV/compare/v6.4.0...v6.5.0) (2019-09-13)
+
+
+### Bug Fixes
+
+* Remove old files ([d339c4a](https://github.com/artentica/CV/commit/d339c4a))
+
+
+### Features
+
+* Add psf file ([7e4b884](https://github.com/artentica/CV/commit/7e4b884))
+
 # [6.4.0](https://github.com/artentica/CV/compare/v6.3.4...v6.4.0) (2019-09-10)
 
 
