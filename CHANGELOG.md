@@ -1,3 +1,11 @@
+## [6.5.1](https://github.com/artentica/CV/compare/v6.5.0...v6.5.1) (2019-09-13)
+
+
+### Bug Fixes
+
+* Add psd file ([ca69c32](https://github.com/artentica/CV/commit/ca69c32))
+* Remove old files ([52e54e9](https://github.com/artentica/CV/commit/52e54e9))
+
 # [6.5.0](https://github.com/artentica/CV/compare/v6.4.0...v6.5.0) (2019-09-13)
 
 
