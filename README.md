@@ -1,13 +1,13 @@
 [![Build Status](https://travis-ci.com/artentica/CV.svg?token=3ro8CqHZXbjPzcfDKVQs&branch=master)](https://travis-ci.com/artentica/CV)
 
-# Curriculum Vitae
+# My Resume
 
-This project is used to keep different version of my CV done in PSD or other extension but it's often large files.
+This project is used to keep different version of my CV done in PSD or inDesign.
 
 ## Language
 
-This version of my CV is in:
- - French
+This version of my CV is in English
+
 
 
 ## Git LFS
