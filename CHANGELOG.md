@@ -1,3 +1,10 @@
+# [6.6.0](https://github.com/artentica/CV/compare/v6.5.3...v6.6.0) (2019-11-08)
+
+
+### Features
+
+* New version of CV, complete XP ([e785054](https://github.com/artentica/CV/commit/e7850543fa6615f84d4381e7153af6cb3b52c79d))
+
 ## [6.5.3](https://github.com/artentica/CV/compare/v6.5.2...v6.5.3) (2019-11-08)
 
 
