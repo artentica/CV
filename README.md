@@ -16,4 +16,4 @@ This project use semantic-release and travis to automatically update changelog a
 
 ## Git LFS
 
-This project use git LFS.
+This project use git LFS for the PSD, PDF and image to keep track of the evolutions.
