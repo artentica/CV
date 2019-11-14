@@ -19,4 +19,4 @@ This project use semantic-release and travis to automatically update changelog a
 This project use git LFS for the PSD, PDF and image to keep track of the evolutions.
 
 ## Preview
-![CV preview](CV-RiouallonVincent.png)
+[![CV preview](CV-RiouallonVincent.png)](https://github.com/artentica/CV/releases/download/v6.6.0/CV-RiouallonVincent.pdf)
