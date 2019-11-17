@@ -4,7 +4,7 @@
 
 This project is used to keep different version of my CV done in PSD or inDesign.
 
-[Download Latest Version of my Resume here](https://github.com/artentica/CV/blob/master/resume.pdf)
+[Download Latest Version of my Resume here](https://github.com/artentica/CV/blob/master/CV-RiouallonVincent.pdf)
 
 ## Language
 
